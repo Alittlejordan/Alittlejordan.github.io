@@ -2,11 +2,11 @@
 
 const config = {
   github: {
-    username: 'arifszn', // Your GitHub org/user name. (Required)
+    username: 'Alittlejordan', // Your GitHub org/user name. (Required)
     sortBy: 'stars', // stars | updated
     limit: 10, // How many projects to display.
     exclude: {
-      forks: false, // Forked projects will not be displayed if set to true.
+      forks: true, // Forked projects will not be displayed if set to true.
       projects: [], // These projects will not be displayed. example: ['my-project1', 'my-project2']
     },
   },
@@ -74,7 +74,7 @@ const config = {
   ], */
   education: [
     {
-      institution: 'Institution Name',
+      institution: 'Depaul Univeristy',
       degree: 'Degree',
       from: '2015',
       to: '2019',
