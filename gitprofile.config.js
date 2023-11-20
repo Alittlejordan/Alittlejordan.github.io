@@ -11,43 +11,37 @@ const config = {
     },
   },
   social: {
-    linkedin: 'ariful-alam',
-    twitter: 'arif_szn',
-    mastodon: 'arifszn@mastodon.social',
+    linkedin: '',
+    twitter: '',
+    mastodon: '',
     facebook: '',
     instagram: '',
     youtube: '', // example: 'pewdiepie'
     dribbble: '',
     behance: '',
-    medium: 'arifszn',
-    dev: 'arifszn',
+    medium: '',
+    dev: '',
     stackoverflow: '', // example: '1/jeff-atwood'
     skype: '',
     telegram: '',
-    website: 'https://arifszn.com',
+    website: '',
     phone: '',
-    email: 'arifulalamszn@gmail.com',
+    email: 'jordan.jj.motton@gmail.com',
   },
   resume: {
     fileUrl:
       'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
-    'PHP',
-    'Laravel',
+    'HTML',
+    'Java',
     'JavaScript',
-    'React.js',
-    'Node.js',
-    'Nest.js',
+    'C++',
+    'C#',
     'MySQL',
-    'PostgreSQL',
-    'Git',
-    'Docker',
-    'PHPUnit',
     'CSS',
-    'Antd',
-    'Tailwind',
   ],
+  /*
   experiences: [
     {
       company: 'Company Name',
@@ -64,6 +58,7 @@ const config = {
       companyLink: 'https://example.com',
     },
   ],
+  */
   /* certifications: [
     {
       name: 'Lorem ipsum',
@@ -75,27 +70,30 @@ const config = {
   education: [
     {
       institution: 'Depaul Univeristy',
-      degree: 'Degree',
-      from: '2015',
-      to: '2019',
+      degree: 'Bachelors Science, Game Programming',
+      from: '2019',
+      to: '2023',
     },
+    /*
     {
       institution: 'Institution Name',
       degree: 'Degree',
       from: '2012',
       to: '2014',
+      */
     },
   ],
 
   // To hide the `My Projects` section, keep it empty.
   externalProjects: [
     {
-      title: 'Project Name',
+      title: 'Slime Time',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
-      imageUrl: 'https://via.placeholder.com/250x250',
-      link: 'https://example.com',
+        'A third-person platformer loosely crossbreeded within the realms of Crash Bandicoot and Sonic Unleashed',
+      imageUrl: 'https://img.itch.zone/aW1nLzg4ODMyNzkuanBn/315x250%23c/b5BH09.jpg',
+      link: 'https://jbrauer98.itch.io/slimetime',
     },
+    /*
     {
       title: 'Project Name',
       description:
@@ -103,6 +101,7 @@ const config = {
       imageUrl: 'https://via.placeholder.com/250x250',
       link: 'https://example.com',
     },
+    */
   ],
   // Display blog posts from your medium or dev account. (Optional)
   blog: {
@@ -119,7 +118,7 @@ const config = {
     snippetVersion: 6,
   },
   themeConfig: {
-    defaultTheme: 'wireframe',
+    defaultTheme: 'dark',
 
     // Hides the switch in the navbar
     // Useful if you want to support a single color mode
