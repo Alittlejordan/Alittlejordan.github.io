@@ -11,7 +11,7 @@ const config = {
     },
   },
   social: {
-    linkedin: '',
+    linkedin: 'https://www.linkedin.com/in/jordan-motton-87844b187/',
     twitter: '',
     mastodon: '',
     facebook: '',
@@ -25,12 +25,12 @@ const config = {
     skype: '',
     telegram: '',
     website: '',
-    phone: '',
+    phone: '815-666-3617',
     email: 'jordan.jj.motton@gmail.com',
   },
   resume: {
     fileUrl:
-      'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      'https://drive.google.com/file/d/14U0VNi00-2LBgx-6XnV9xgYj7OarxBM_/view?usp=drive_link', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'HTML',
@@ -38,7 +38,7 @@ const config = {
     'JavaScript',
     'C++',
     'C#',
-    'MySQL',
+    'SQL',
     'CSS',
   ],
   /*
