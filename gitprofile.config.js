@@ -80,9 +80,10 @@ const config = {
       degree: 'Degree',
       from: '2012',
       to: '2014',
-      */
+      
     },
     */
+    
   ],
 
   // To hide the `My Projects` section, keep it empty.
