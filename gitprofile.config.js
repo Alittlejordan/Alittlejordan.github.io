@@ -95,13 +95,13 @@ const config = {
       imageUrl: 'https://img.itch.zone/aW1nLzg4ODMyNzkuanBn/315x250%23c/b5BH09.jpg',
       link: 'https://jbrauer98.itch.io/slimetime',
     },
-    /*
+    *
     {
-      title: 'Project Name',
+      title: 'Bloggie Website',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
-      imageUrl: 'https://via.placeholder.com/250x250',
-      link: 'https://example.com',
+        'Website for devlopers to view and post blogs. Users can view and like blogs as well as comment. Admins can post Blogs. AdminLogin: Username:	AdminRole, Password:Admin!23 ',
+      imageUrl: 'https://images.pexels.com/photos/574069/pexels-photo-574069.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
+      link: 'https://bloggiemvc20231205025858.azurewebsites.net',
     },
     */
   ],
