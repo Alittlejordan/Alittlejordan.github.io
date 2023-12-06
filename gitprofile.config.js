@@ -95,7 +95,7 @@ const config = {
       imageUrl: 'https://img.itch.zone/aW1nLzg4ODMyNzkuanBn/315x250%23c/b5BH09.jpg',
       link: 'https://jbrauer98.itch.io/slimetime',
     },
-    *
+    
     {
       title: 'Bloggie Website',
       description:
@@ -103,7 +103,7 @@ const config = {
       imageUrl: 'https://images.pexels.com/photos/574069/pexels-photo-574069.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
       link: 'https://bloggiemvc20231205025858.azurewebsites.net',
     },
-    */
+    
   ],
   // Display blog posts from your medium or dev account. (Optional)
   blog: {
