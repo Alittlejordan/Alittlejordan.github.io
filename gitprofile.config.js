@@ -95,14 +95,14 @@ const config = {
       imageUrl: 'https://img.itch.zone/aW1nLzg4ODMyNzkuanBn/315x250%23c/b5BH09.jpg',
       link: 'https://jbrauer98.itch.io/slimetime',
     },
-    
+      /*
     {
       title: '',
       description:
         '',
       link: '',
     },
-    
+     */
   ],
   // Display blog posts from your medium or dev account. (Optional)
   blog: {
