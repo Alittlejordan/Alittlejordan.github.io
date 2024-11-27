@@ -97,11 +97,10 @@ const config = {
     },
     
     {
-      title: 'Bloggie Website',
+      title: '',
       description:
-        'Website for devlopers to view and post blogs. Users can view and like blogs as well as comment. Admins can post Blogs. AdminLogin: Username:	AdminRole, Password:Admin!23 ',
-      imageUrl: 'https://images.pexels.com/photos/574069/pexels-photo-574069.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
-      link: 'https://bloggiemvc20231205025858.azurewebsites.net',
+        '',
+      link: '',
     },
     
   ],
